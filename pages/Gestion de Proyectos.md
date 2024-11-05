@@ -20,3 +20,10 @@
 - [[6.1 Estimacion agil de requisitos]]
 - [[6.2 Tecnicas de Estimacion Agil]]
 - [[6.3 Beneficios de la Estimacion Agil]]
+- [[6.4 Planificacion Adapativa Agil]]
+- [[6.5 Horizontes de planificacion agil]]
+- [[ 6.0 resumen]]
+- [[7.1 RoadMap]]
+- [[7.2 Release Plan]]
+- [[7.3 Backlog, Roadmap y Release]]
+-
