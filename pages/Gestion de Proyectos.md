@@ -16,3 +16,7 @@
 - [[5.2 Gestion Agil de Requisitos]]
 - [[5.3 Historia de Usuarios]]
 - [[5.4 Priorizacion de requisitos]]
+- [[5.5 product backlog]]
+- [[6.1 Estimacion agil de requisitos]]
+- [[6.2 Tecnicas de Estimacion Agil]]
+- [[6.3 Beneficios de la Estimacion Agil]]
