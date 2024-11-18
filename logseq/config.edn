@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["Gestion de Proyectos" "microtest tema01-01" "DevSecOps" "Herramientas de Despligue de Aplicaciones" "Administracion Sistemas en la Nube" "Computacion en la Nube y Cultura Devops"]
+ :favorites ["Herramientas DevOps" "Gestion de Proyectos" "microtest tema01-01" "DevSecOps" "Herramientas de Despligue de Aplicaciones" "Administracion Sistemas en la Nube" "Computacion en la Nube y Cultura Devops"]
 
  ;; Set flashcards interval.
  ;; Expected value:

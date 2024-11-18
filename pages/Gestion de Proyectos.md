@@ -28,6 +28,7 @@
 - [[7.3 Backlog, Roadmap y Release]]
 - [[7.4 Gestion Agil del Cambio]]
 - [[7.0 resumen]]
-- [[Definicion de DOR(Done and Ready)]]
+- [[8.1 Definicion de DOR(Done and Ready)]]
+-
 -
 -
